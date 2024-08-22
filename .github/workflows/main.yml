@@ -3,7 +3,7 @@ name: Run Tests on pre-main
 on:
   push:
     branches:
-      - pre-main
+      -main
 
 jobs:
   test:
